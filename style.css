@@ -2,20 +2,18 @@
      background-image: url(./brick.jpg);
  }
 
+ .heading_paragraph {
+     width: 40%;
+     color: blueviolet;
+     border-style: solid;
+ }
+
 ul {
     padding-left: 49%;
    }
 
-ol {
-    padding-left: 10%;  
-}
-
 #tv {
     text-align: center;
-}
-
-#wine {
-    padding-left: 30%;
 }
 
 .table {
@@ -39,4 +37,3 @@ ol {
   h2 {
       text-align: center;
   }
-  
