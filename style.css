@@ -1,17 +1,17 @@
- .main_content {
-     background-image: url("brick.jpg");
+ body {
+     background-image: url(./brick.jpg);
  }
 
 ul {
     padding-left: 49%;
-}
+   }
 
 ol {
-    padding-left: 40%;
+    padding-left: 10%;  
 }
 
 #tv {
-    padding-left: 40%;
+    text-align: center;
 }
 
 #wine {
@@ -24,11 +24,19 @@ ol {
  
  .sections {
      text-align: center;
+     padding-left: 10%;
+     padding-right: 10%;
  }
 
   a:link {
     color: black;
   }
+
   a:visited {
-    color: blue;
+    color: black;
   } 
+
+  h2 {
+      text-align: center;
+  }
+  
