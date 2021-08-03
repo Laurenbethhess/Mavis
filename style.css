@@ -5,39 +5,58 @@
      margin-right: 5%;
      padding-left: 5%;
      padding-right: 5%;
+     margin-top: 5%;
+     margin-bottom: 5%;
  }
 
+
+
  .float-container {
-    text-align: center;
+ 
 }
 
 .float-child {
     width: 50%;
     float: left;
+
 }  
+
+.subtitle {
+    text-align: center;
+}
+
+.ol {
+    margin-left: 30%;
+}
 
 .heading_paragraph {
     border-style: solid;
     border-color: black;
+    text-align: center;
 }
 
 .ul_1 {
+    padding-left: 35%;
+ }
+
+
+#tv {
+    text-align: center;
     border-style: solid;
     border-color: black;
 }
 
-#tv {
-    text-align: center;
-}
-
-.table {
-    padding-left: 46%;
-}
  
- .sections {
-     text-align: center;
-     padding-left: 10%;
-     padding-right: 10%;
+ .table_heading {
+     margin-left: 12%;
+ }
+
+ table {
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    margin-left: 17%;
+    margin-bottom: 5%;
  }
 
   a:link {
