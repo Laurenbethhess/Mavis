@@ -1,16 +1,30 @@
  body {
-     background-image: url(./brick.jpg);
+     background-image: url(./double-bubble.png);
+     border-style: double;
+     margin-left: 5%;
+     margin-right: 5%;
+     padding-left: 5%;
+     padding-right: 5%;
  }
 
- .heading_paragraph {
-     width: 40%;
-     color: blueviolet;
-     border-style: solid;
- }
+ .float-container {
+    text-align: center;
+}
 
-ul {
-    padding-left: 49%;
-   }
+.float-child {
+    width: 50%;
+    float: left;
+}  
+
+.heading_paragraph {
+    border-style: solid;
+    border-color: black;
+}
+
+.ul_1 {
+    border-style: solid;
+    border-color: black;
+}
 
 #tv {
     text-align: center;
