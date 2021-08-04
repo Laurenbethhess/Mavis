@@ -1,5 +1,5 @@
  body {
-     background-image: url(./double-bubble.png);
+     background-image: url(./stripes-light.png);
      border-style: double;
      margin-left: 5%;
      margin-right: 5%;
@@ -9,10 +9,16 @@
      margin-bottom: 5%;
  }
 
-
-
  .float-container {
  
+}
+
+h1 {
+    color: #669999;
+}
+
+p {
+    color: #666699;
 }
 
 .float-child {
@@ -25,27 +31,41 @@
     text-align: center;
 }
 
-.ol {
-    margin-left: 30%;
+
+h3 {
+    margin-left: 20%;
+    color: #4775d1;
+}
+
+ol {
+    color: #3d5c5c;
+    margin-left: 35%;
+}
+
+#Mavis {
+    margin-left: 36%;
+    border-style: solid;
+    border-color: #85adad;
+    border-width: 1mm;
 }
 
 .heading_paragraph {
     border-style: solid;
-    border-color: black;
+    border-color: #9999ff;
     text-align: center;
 }
 
 .ul_1 {
     padding-left: 35%;
+    color: #52527a;
  }
-
 
 #tv {
     text-align: center;
     border-style: solid;
-    border-color: black;
+    border-color: #8585ad;
+    color: #3d3d5c;
 }
-
  
  .table_heading {
      margin-left: 12%;
@@ -57,14 +77,15 @@
     text-align: center;
     margin-left: 17%;
     margin-bottom: 5%;
+    color: #3366cc;
  }
 
   a:link {
-    color: black;
+    color: #476b6b;
   }
 
   a:visited {
-    color: black;
+    color: #669999;
   } 
 
   h2 {
