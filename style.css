@@ -15,6 +15,7 @@
 
 h1 {
     color: #669999;
+    font-family: Blippo, fantasy;
 }
 
 p {
@@ -29,21 +30,26 @@ p {
 
 .subtitle {
     text-align: center;
+    font-family: Chalkduster, fantasy;
 }
 
 
 h3 {
-    margin-left: 20%;
+    margin-left: 16%;
     color: #4775d1;
+    font-family: Trattatello, fantasy;
+
 }
 
 ol {
     color: #3d5c5c;
-    margin-left: 35%;
+    margin-left: 25%;
+    font-family: Trattatello, fantasy;
+    font-size: 8pt;
 }
 
 #Mavis {
-    margin-left: 36%;
+    margin-left: 25%;
     border-style: solid;
     border-color: #85adad;
     border-width: 1mm;
@@ -53,11 +59,13 @@ ol {
     border-style: solid;
     border-color: #9999ff;
     text-align: center;
+    font-family: cursive;
 }
 
 .ul_1 {
     padding-left: 35%;
     color: #52527a;
+    font-family: fantasy;
  }
 
 #tv {
@@ -68,14 +76,14 @@ ol {
 }
  
  .table_heading {
-     margin-left: 12%;
+     margin-left: 22%;
  }
 
  table {
     border-style: solid;
     border-color: black;
     text-align: center;
-    margin-left: 17%;
+    margin-left: 30%;
     margin-bottom: 5%;
     color: #3366cc;
  }
@@ -90,4 +98,8 @@ ol {
 
   h2 {
       text-align: center;
+  }
+
+  h4 {
+      font-family: Courier New, monospace;
   }
